@@ -10,7 +10,7 @@ jobs:
 
       matrix:
 
-        java: [ 8-jdk ]
+        java: [ 17-jdk ]
 
     runs-on: ubuntu-20.04
 
